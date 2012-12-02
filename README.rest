@@ -1,0 +1,4 @@
+To use this, you must first obtain MWC64X from:
+http://cas.ee.ic.ac.uk/people/dt10/research/rngs-gpu-mwc64x.html#source_code
+Then extract the archive into haskell/Language/SPL/include.
+
