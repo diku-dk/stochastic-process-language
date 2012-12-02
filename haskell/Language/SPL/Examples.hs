@@ -30,6 +30,3 @@ asian r v s = do
     u <- underlying r v s
     return (\t -> max 0 (u t - average u t) * exp (-t * r))
 
-irrational :: Real
-irrational = sqrt 2 + pi
-
