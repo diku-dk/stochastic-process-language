@@ -7,7 +7,7 @@ SPL is declarative in the sense that it is agnostic of the choice of discretizat
   
 Examples are available in the haskell/Language/SPL/Examples.hs file.
   
-Please refer to the article An Embedded DSL for Stochastic Processes" by Werk, Ahnfelt & Larsen for more information:
+Please refer to the article "An Embedded DSL for Stochastic Processes" by Werk, Ahnfelt & Larsen for more information:
   
 http://dl.acm.org/citation.cfm?id=2364488
 
