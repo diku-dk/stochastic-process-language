@@ -4,8 +4,8 @@ SPL
 SPL is a domain specific language embedded in Haskell for specifying stochastic processes. It is designed with the goal of matching the notation used in mathematical finance, where the price of a financial contract is specified using stochastic processes and distributions. 
 
 SPL is declarative in the sense that it is agnostic of the choice of discretization and of the computational model. This repository contains an implementation of SPL that performs Monte Carlo simulation using GPGPU, which scales linearly with the number of available cores and gives a speedup of about a 100x compared to hand-written sequential C.
-  
-Examples are available in the haskell/Language/SPL/Examples.hs file.
+
+Examples are available in the [haskell/Language/SPL/Examples.hs](/HIPERFIT/stochastic-process-language/haskell/Language/SPL/Examples.hs) file.
   
 Please refer to the article "An Embedded DSL for Stochastic Processes" by Werk, Ahnfelt & Larsen for more information:
   
