@@ -7,7 +7,7 @@ SPL is declarative in the sense that it is agnostic of the choice of discretizat
 
 Examples are available in the haskell/Language/SPL/Examples.hs file:
 
-https://github.com/HIPERFIT/stochastic-process-language/haskell/Language/SPL/Examples.hs
+https://github.com/HIPERFIT/stochastic-process-language/blob/master/haskell/Language/SPL/Examples.hs
   
 Please refer to the article "An Embedded DSL for Stochastic Processes" by Werk, Ahnfelt & Larsen for more information:
   
